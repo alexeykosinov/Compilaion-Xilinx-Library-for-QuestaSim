@@ -1,0 +1,9 @@
+-s questa 
+-l all 
+-cfg compxlib.cfg
+-arch virtex6 
+-arch artix7 
+-arch kintex7 
+-lib unisim 
+-lib simprim
+-lib xilinxcorelib

@@ -1,0 +1,1 @@
+compxlib -w -f questasim.src -dir C:/questasim64_10.7c/xilinx
